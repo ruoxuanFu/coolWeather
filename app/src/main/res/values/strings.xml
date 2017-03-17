@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--activity_main2_drawer_string-->
+    <string name="Nav_location">城市</string>
+    <string name="Nav_weather">天气</string>
+
+    <!--progress_dialog-->
+    <string name="On_Loading">正在加载...</string>
+
+    <!--toast-->
+    <string name="Load_Fail">加载失败...</string>
+
+    <!--frag_weather-->
+    <string name="Every_Hour">每小时</string>
+
+    <!--appBarExpandedListener-->
+    <string name="Select_City">选择城市</string>
+
+    <!--frag_weather-->
+    <string name="Wind_Power">风力</string>
+    <string name="Sun_Rise_Set">日出日落</string>
+    <string name="Uv">紫外线指数</string>
+    <string name="Sd">湿度</string>
+    <string name="Closes">穿衣指数</string>
+    <string name="Wash_Car">洗车指数</string>
+    <string name="Comfort">舒适指数</string>
+    <string name="Pollutant">主要污染物</string>
+
+</resources>

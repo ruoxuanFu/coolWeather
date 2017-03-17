@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="cool_weather"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.quaie.myapplication.db.Province"></mapping>
+        <mapping class="com.quaie.myapplication.db.City"></mapping>
+        <mapping class="com.quaie.myapplication.db.County"></mapping>
+    </list>
+</litepal>
